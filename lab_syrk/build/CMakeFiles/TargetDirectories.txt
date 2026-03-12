@@ -1,0 +1,6 @@
+/home/TRPO/lab_syrk/build/CMakeFiles/syrk_lib.dir
+/home/TRPO/lab_syrk/build/CMakeFiles/main_app.dir
+/home/TRPO/lab_syrk/build/CMakeFiles/test_syrk.dir
+/home/TRPO/lab_syrk/build/CMakeFiles/bench_syrk.dir
+/home/TRPO/lab_syrk/build/CMakeFiles/edit_cache.dir
+/home/TRPO/lab_syrk/build/CMakeFiles/rebuild_cache.dir

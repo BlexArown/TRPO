@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main_app.dir/src/main.cpp.o -o main_app  libsyrk_lib.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bench_syrk.dir/bench/bench_syrk.cpp.o -o bench_syrk  libsyrk_lib.a /usr/lib/x86_64-linux-gnu/libopenblas.so 
